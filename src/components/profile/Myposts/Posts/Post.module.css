@@ -1,0 +1,9 @@
+.item {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.item img {
+    width: 50px;
+}

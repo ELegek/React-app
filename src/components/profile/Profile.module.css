@@ -1,0 +1,9 @@
+
+.content {
+    grid-area: main;
+    background-color: cadetblue;
+}
+
+.content img {
+    max-height: 300px;
+}
